@@ -19,6 +19,11 @@
   <project name="horus-heresy" />
   <project name="bsdata" />
   <project name="frostgrave" />
+  <project name="maelstroms-edge" />
+  <project name="boltaction" />
+  <project name="Firestorm-Armada-v2" />
+  <project name="halo-ground-command" />
+  <project name="star-wars-armada" />
 
 </manifest>
 
