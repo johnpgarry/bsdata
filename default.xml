@@ -10,6 +10,9 @@
 
   <project name="wh40k" />
   <project name="warhammer-age-of-sigmar" />
+  <project name="gates-of-antares" />
+  <project name="dropzone-commander" />
+  <project name="The-9th-Age" />
 
 </manifest>
 
