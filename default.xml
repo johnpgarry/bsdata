@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="bsdata"
+           fetch="https://github.com/BSData/" />
+
+  <default revision="master"
+           remote="bsdata"
+           sync-j="4" />
+
+  <project name="wh40k" />
+
+</manifest>
+
