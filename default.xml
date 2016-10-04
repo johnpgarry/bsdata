@@ -24,6 +24,40 @@
   <project name="Firestorm-Armada-v2" />
   <project name="halo-ground-command" />
   <project name="star-wars-armada" />
+  <project name="dragon-rampant" />
+  <project name="horus-heresy-bs2prep" />
+  <project name="dystopianwars" />
+  <project name="tanks" />
+  <project name="wh40k-epic-armageddon" />
+  <project name="firestorm-planetfall" />
+  <project name="mordheim" />
+  <project name="whfb" />
+  <project name="wh40k-heralds-of-ruin-killteam" />
+  <project name="kingsofwar" />
+  <project name="judge-dredd" />
+  <project name="firestorm-taskforce" />
+  <project name="halo-fleet-battles" />
+  <project name="warmahordes" />
+  <project name="ninja-all-stars" />
+  <project name="hobbit" />
+  <project name="Dystopian-Legions" />
+  <project name="wh40k-path-to-glory" />
+  <project name="wh40k-old" />
+  <project name="dusttactics" />
+  <project name="necromunda" />
+  <project name="warhammer-diskwars" />
+  <project name="battlefleetgothic" />
+  <project name="robotech-rpg-tactics" />
+  <project name="relic-knights" />
+  <project name="flamesofwar" />
+  <project name="mars-attacks" />
+  <project name="xcom" />
+  <project name="RoguePlanet" />
+  <project name="deadzone" />
+  <project name="test" />
+  <project name="catalogue-development" />
+  <project name="warpath" />
+  <project name="bloodbowl" />
 
 </manifest>
 
